@@ -2,6 +2,8 @@
 
 ![2m Band Pass Filter](./2m_band_pass.jpg)
 
+[OSHPark Project](https://oshpark.com/shared_projects/Gucpk6xE)
+
 ## Characteristics
 
 ![Characteristics](./2m_band_pass.png)
@@ -13,6 +15,7 @@
  - 2x [0805 120pF](https://www.tme.eu/en/details/cc0805jrnpo9121/0805-mlcc-smd-capacitors/yageo/cc0805jrnpo9bn121/)
  - 1x [0805 3.6pF](https://www.tme.eu/en/details/cl21c3r6bbaannc/0805-mlcc-smd-capacitors/samsung/)
  - 2x [SMA](https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=sma+female+pcb+edge+mount&rt=nc&LH_BIN=1)
+ - 1x [PCB](https://oshpark.com/shared_projects/Gucpk6xE)
 
 ## License
 
