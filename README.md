@@ -17,6 +17,12 @@
  - 2x [SMA](https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=sma+female+pcb+edge+mount&rt=nc&LH_BIN=1)
  - 1x [PCB](https://oshpark.com/shared_projects/Gucpk6xE)
 
+## Other Projects
+
+ - [2m/70cm Diplexer](https://github.com/kolaCZek/2m-70cm-Diplexer)
+ - [FM Trap](https://github.com/kolaCZek/FM-Trap)
+ - [Bias-T](https://github.com/kolaCZek/Bias-T)
+
 ## License
 
 [Apache License Version 2.0](./LICENSE)
